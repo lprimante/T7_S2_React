@@ -1,5 +1,6 @@
 import React from 'react'
 import Comentario from '../componentes/comentario/Comentario'
+import { getComentarios } from '../service/base'
 
 import './chat.css'
 
