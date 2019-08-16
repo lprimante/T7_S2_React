@@ -1,5 +1,7 @@
 # Projeto React para aula
-Aulas para a segunda semana de React da turma da {reprograma}
+Aulas para a segunda semana de React da turma da {reprograma} :purple_heart:
+
+:point_right: Link para projeto: [RocketChat](https://rocketchat.netlify.com/)
 
 Os temas abordados são: 
 
