@@ -14,7 +14,7 @@ export default class Chat extends React.Component {
   }
 
   componentDidMount() {
-    getComentarios()
+    setTimeout(getComentarios()
     .then(response => {
       console.log(response)
       this.setState({
@@ -23,7 +23,7 @@ export default class Chat extends React.Component {
     })
     .catch(error => {
       console.error(error)
-    })
+    }), 5000)
   }
 
   render() {
